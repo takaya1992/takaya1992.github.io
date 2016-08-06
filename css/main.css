@@ -37,9 +37,6 @@ height: 100%;
   text-align: center;
 }
 
-.title-box {
-}
-
 .title-box > img {
   height: 120px;
 }
@@ -64,6 +61,12 @@ height: 100%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+}
+
+.link a {
+  color: #fff;
+  text-decoration: none;
+  font-size: xx-large;
 }
 
 .link > div {
