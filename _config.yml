@@ -1,0 +1,9 @@
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'README.md'
+  - 'vendor'
+  - 'eyecatch.rb'
+
+kramdown:
+  input: GFM
